@@ -18,7 +18,7 @@
     <a href="https://github.com/GoLangMc/minecraft-server/pulls">Send a Pull Request</a>
   </p>
   
-  <h2 align="center">Current Objectives:
+  <h2 align="center">Current Objectives:</h2>
   <ul>
     <li>Update to MC 1.16.5</li>
     <li>Add terrain generation</li>
